@@ -1,13 +1,5 @@
 import csv
 import os
-import re
-
-"""Funcionalidades:
-        ✓ Permitir al usuario cargar un archivo CSV existente.
-        ✓ Crear un nuevo archivo CSV y añadir datos.
-        ✓ Actualizar y guardar cambios en el archivo CSV.
-    Implementación:
-        ✓ Utilizar una biblioteca de manipulación de CSV en el lenguaje de programación de tu elección (p. ej., pandas en Python)."""
 
 class CSVManage:
     def __init__(self):
