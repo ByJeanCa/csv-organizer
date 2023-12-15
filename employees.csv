@@ -1,0 +1,51 @@
+ID,Nombre,Apellido,Puesto,Departamento,Fecha de Ingreso,Sueldo
+1,John,Doe,Desarrollador,Desarrollo,2020-01-15,60000
+2,Jane,Smith,Analista de Datos,Análisis,2019-08-22,55000
+3,Robert,Johnson,Ingeniero de Sistemas,Desarrollo,2021-03-10,65000
+4,Emily,Jones,Coordinador de Proyectos,Proyectos,2018-11-05,70000
+5,Alice,Williams,Diseñador Gráfico,Marketing,2022-02-20,50000
+6,Michael,Brown,Analista Financiero,Finanzas,2017-09-12,75000
+7,Olivia,Miller,Asistente Administrativo,Administración,2020-04-08,45000
+8,Liam,Davis,Desarrollador Frontend,Desarrollo,2019-12-03,62000
+9,Emma,García,Especialista en Recursos Humanos,Recursos Humanos,2021-07-18,58000
+10,Noah,Rodríguez,Ingeniero de Redes,Infraestructura,2018-05-25,68000
+11,Ava,López,Analista de Marketing,Marketing,2022-01-30,52000
+12,Lucas,Hernández,Arquitecto de Software,Desarrollo,2019-06-14,70000
+13,Mia,Martínez,Coordinador de Eventos,Eventos,2020-10-09,48000
+14,Ethan,Gómez,Analista de Seguridad,Seguridad,2018-02-17,72000
+15,Isabella,Pérez,Asesor de Ventas,Ventas,2021-05-22,55000
+16,Aiden,Torres,Analista de Datos,Análisis,2017-11-28,60000
+17,Sophia,Flores,Diseñador UX/UI,Desarrollo,2022-04-14,65000
+18,Liam,Morales,Especialista en Compensación,Recursos Humanos,2019-09-05,58000
+19,Olivia,Ortiz,Desarrollador Backend,Desarrollo,2020-06-20,63000
+20,Lucas,Jiménez,Coordinador de Proyectos,Proyectos,2018-03-12,71000
+21,Ava,Ramírez,Analista Financiero,Finanzas,2021-08-27,60000
+22,Noah,Reyes,Ingeniero de Sistemas,Desarrollo,2019-01-03,67000
+23,Mia,Herrera,Asistente de Marketing,Marketing,2017-07-09,50000
+24,Ethan,Castaño,Analista de Datos,Análisis,2022-02-01,58000
+25,Isabella,Marín,Desarrollador Frontend,Desarrollo,2018-05-18,64000
+26,Aiden,Aguilar,Especialista en Recursos Humanos,Recursos Humanos,2019-10-14,56000
+27,Sophia,Sánchez,Analista de Ventas,Ventas,2020-11-19,52000
+28,Liam,Rivera,Diseñador Gráfico,Marketing,2018-04-24,49000
+29,Olivia,Molina,Ingeniero de Redes,Infraestructura,2021-01-09,66000
+30,Lucas,Gutiérrez,Analista de Seguridad,Seguridad,2019-06-04,70000
+31,Ava,Ortega,Coordinador de Eventos,Eventos,2020-09-18,48000
+32,Noah,González,Analista de Marketing,Marketing,2017-12-23,53000
+33,Mia,Rivero,Arquitecto de Software,Desarrollo,2022-03-08,72000
+34,Ethan,Rivero,Asesor de Ventas,Ventas,2019-08-12,59000
+35,Isabella,López,Analista de Datos,Análisis,2018-02-28,62000
+36,Aiden,Díaz,Diseñador UX/UI,Desarrollo,2021-06-15,67000
+37,Sophia,Moreno,Especialista en Compensación,Recursos Humanos,2020-11-30,55000
+38,Liam,Gómez,Desarrollador Backend,Desarrollo,2018-04-15,64000
+39,Olivia,Blanco,Coordinador de Proyectos,Proyectos,2019-01-20,70000
+40,Lucas,Mendoza,Analista Financiero,Finanzas,2022-04-05,60000
+41,Ava,Paz,Ingeniero de Sistemas,Desarrollo,2018-07-10,65000
+42,Noah,Suárez,Asistente de Marketing,Marketing,2017-12-03,50000
+43,Mia,Alvarez,Analista de Datos,Análisis,2021-02-18,57000
+44,Ethan,Martínez,Desarrollador Frontend,Desarrollo,2019-05-25,63000
+45,Isabella,Soto,Especialista en Recursos Humanos,Recursos Humanos,2020-10-09,56000
+46,Aiden,Hernández,Analista de Ventas,Ventas,2018-03-14,53000
+47,Sophia,Luna,Diseñador Gráfico,Marketing,2021-09-28,49000
+48,Liam,Chávez,Ingeniero de Redes,Infraestructura,2019-04-12,65000
+49,Olivia,García,Analista de Seguridad,Seguridad,2017-06-20,70000
+50,Lucas,Pérez,Coordinador de Eventos,Eventos,2018-12-15,48000
